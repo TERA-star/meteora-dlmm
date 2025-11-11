@@ -73,23 +73,14 @@ The DLMM Chain Pool Liquidity Management System adopts a simplified modular desi
 dlmm-chain-pools-manager/
 
 ├── src/
-
 │   ├── models.ts         # Data model definitions
-
 │   ├── services.ts       # Core business logic
-
 │   ├── utils.ts          # Utility functions
-
 │   ├── logger.ts         # Logging module
-
 │   ├── display.ts        # Display and visualization
-
 │   ├── config.ts         # Configuration file
-
 │   └── index.ts          # Main program entry
-
 ├── package.json          # Project dependencies
-
 └── tsconfig.json         # TypeScript configuration
 
 
@@ -364,7 +355,7 @@ This project is licensed under the MIT License.
 
 
 ### 📞 Telegram: [manchatz](https://t.me/manchatz)   
-https://t.me/sven.dev
+https://t.me/manchatz
 
 ### 📞 X: [SvenDotDev](https://x.com/SvenDotDev)
 https://x.com/SvenDotDev
