@@ -71,15 +71,25 @@ This automated management greatly reduces the operational burden for liquidity p
 The DLMM Chain Pool Liquidity Management System adopts a simplified modular design, divided into several main components:
 
 dlmm-chain-pools-manager/
+
 ├── src/
+
 │   ├── models.ts         # Data model definitions
+
 │   ├── services.ts       # Core business logic
+
 │   ├── utils.ts          # Utility functions
+
 │   ├── logger.ts         # Logging module
+
 │   ├── display.ts        # Display and visualization
+
 │   ├── config.ts         # Configuration file
+
 │   └── index.ts          # Main program entry
+
 ├── package.json          # Project dependencies
+
 └── tsconfig.json         # TypeScript configuration
 
 
